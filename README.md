@@ -26,7 +26,7 @@ git clone https://github.com/thecodecat19/message-encrypter.git
  
 Navigate to the project directory:
 cd message-encrypter
-
+cd anonymitymessageencrypter
 run the program
 if you use Turkish "python encrypterlangtr.py if you use English run encrypterlangEN.py
 
@@ -57,6 +57,7 @@ git clone https://github.com/thecodecat19/message-encrypter.git
 
 proje dizinine gidin:
 cd message-encrypter
+cd anonymitymessageencrypter
 
 programı çalıştırın 
 eğer türkçe kullanıcak sanız python encrypterlangtr.py yazın ingilizce kullanıcak sanızda python encrypterlangEN.py yazın
